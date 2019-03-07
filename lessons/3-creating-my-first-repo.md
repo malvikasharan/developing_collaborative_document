@@ -2,4 +2,6 @@
 
 1. Create a GitHub account
 2. Create a repository
-3. Create a [readme file](./how-to-README.md)
+3. Create a README.md
+    - This is your landing page, spend some time adding information into this file
+    - See the instructions [here](./how-to-README.md)
