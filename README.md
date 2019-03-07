@@ -18,6 +18,7 @@
 1. Define your target audience and their requirements.
 1. Create README file and add the abouve information there.
 1. Create the handout material covering the following areas:
+
   1.1 Collaboration and version control (versioning)
   1.1 GitHub
   1.2 GitHub folder/project also known as repository/repo
