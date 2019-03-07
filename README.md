@@ -2,12 +2,15 @@
 
 ## THIS IS A DEMO FOLDER 
 
-"This session on "Developing Collaboratie document" will introduce you to GitHub as tool for creating documents online with your collaborators. The goal is to make you comfortable with a Collaborative workflow in the GitHub interface. Practice adding resources to online project folders, working with tasks and issues, writing messages when committing any change, making and reviewing change requests from others and merging them. You'll also practice good communication with contributors."
+- This practical session on "Developing Collaboratie document" will introduce you to GitHub as tool for creating documents online with your collaborators. 
+- The goal is to make you comfortable with a Collaborative workflow in the GitHub interface. 
+- Practice adding resources to online project folders, working with tasks and issues, writing messages when committing any change, making and reviewing change requests from others and merging them. 
+- You'll also practice good communication with contributors.
 
-- Venue: EMBL Room 202
-- Date: March 8, 2019
-- Time: 13:30 - 15:00
-- Contact: Malvika Sharan
+**Venue**: EMBL Room 202
+**Date**: March 8, 2019
+**Time**: 13:30 - 15:00
+**Contact**: Malvika Sharan
 
 - Prerequisite: No prior experience with GitHub is needed. Bring any real life scenario where developing collborative document will be useful for you. Please bring your own laptop to this event.
 
