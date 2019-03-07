@@ -2,7 +2,7 @@
 
 Reference : [Welcome to Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/3.1-collab-vers-github.html)
 
-### Aim of this section
+#### Aim of this section
 
 - Defining Collaborative Documents
 - Understading challenges in collaborations
