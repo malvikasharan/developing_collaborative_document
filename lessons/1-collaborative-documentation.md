@@ -1,4 +1,4 @@
-## Collaborative documents and Version Control
+## Collaborative documents
 
 Reference : [Welcome to Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/3.1-collab-vers-github.html)
 
