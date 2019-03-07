@@ -31,3 +31,5 @@ Reference: [Mozilla Science Lab](https://mozillascience.github.io/study-group-or
 - Populate your file with information
 - Commit changes with approprite information as commit message
 - Look at "Insight/community" for other files recommended to add when working with members in your community
+    - Specifically look at 'license', 'contributing', 'description'
+- Whenever possible, add a few lines as code of conduct to make your project welcoming and inclusive for others
