@@ -19,13 +19,13 @@
 1. Create README file and add the abouve information there.
 1. Create the handout material covering the following areas:
 
-  1.1 Collaboration and version control (versioning)
-  1.1 GitHub
-  1.2 GitHub folder/project also known as repository/repo
-  1.3 Creating a repo
-  1.4 Playing around with repo
-  1.5 collaborating with others
-  1.6 useful GitHub features
+  * Collaboration and version control (versioning)
+  * GitHub
+  * GitHub folder/project also known as repository/repo
+  * Creating a repo
+  * Playing around with repo
+  * collaborating with others
+  * useful GitHub features
 
 
 **References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/):**
