@@ -34,4 +34,5 @@
 
 1. [Collaboration, Version Control and GitHub](https://mozillascience.github.io/study-group-orientation/3.1-collab-vers-github.html)
 1. [Getting to know GitHub](https://mozillascience.github.io/study-group-orientation/3.2-know-github.html)
+1. [Friendly GitHub intro by Kirstie Whitaker](https://kirstiejane.github.io/friendly-github-intro/)
 1. [Github for collaboration](http://mozillascience.github.io/working-open-workshop/github_for_collaboration/)
