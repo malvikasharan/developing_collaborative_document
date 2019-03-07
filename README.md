@@ -30,7 +30,7 @@
     * useful GitHub features
 
 
-**References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/):**
+**References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and [Kirstie Whitaker](https://github.com/KirstieJane/friendly-github-intro):**
 
 1. [Collaboration, Version Control and GitHub](https://mozillascience.github.io/study-group-orientation/3.1-collab-vers-github.html)
 1. [Getting to know GitHub](https://mozillascience.github.io/study-group-orientation/3.2-know-github.html)
