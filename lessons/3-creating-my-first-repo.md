@@ -4,5 +4,6 @@
 2. Create a repository
 3. Create a README.md
     - This is your landing page, spend some time adding information into this file
-    - See the instructions [here](./how-to-README.md)
     - Learn about [Markdown](./markdown_demo.md) to create elegant looking.
+    - See the instructions [here](./how-to-README.md)
+  
