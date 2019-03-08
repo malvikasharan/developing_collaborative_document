@@ -21,6 +21,9 @@ As the owner of a repo you:
 - You are doing an analysis and need your collaborator to review.
 - etc...
 
+*You add collaborators when they are a core part of your team!*
+
+
 *Reference: Mozilla Science Lab's material developed by Kirstie Whitaker [link](https://docs.google.com/presentation/d/1VasZl8YsYMfhi1zYaYZ-kWykjp4T-ZqE5YrOImsC_Kg/edit#slide=id.g1568089626_2_0)*
 
 
