@@ -22,4 +22,7 @@ Italicize Text
 Bold + Italicize text
 
 
+Add link
+
+
 Add image
