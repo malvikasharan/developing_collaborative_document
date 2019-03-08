@@ -1,4 +1,4 @@
-## Adding files to your repo
+## Add a first file to your repo
 
 ### Write your README
 
@@ -23,13 +23,3 @@ Now that you know how to use Markdown, use it to create your README.md file
 If you're having trouble getting started, here's some basic text-- feel free to copy-paste and edit content from the [README file from this repo](./../README.md).
 
 Reference: [Mozilla Science Lab](https://mozillascience.github.io/study-group-orientation/1.2-write-a-readme.html)
-
-
-### Add other files and folders
-
-- Create a file inside a folder by writing their name in this format 'folder-name/file-name' 
-- Populate your file with information
-- Commit changes with approprite information as commit message
-- Look at "Insight/community" for other files recommended to add when working with members in your community
-    - Specifically look at 'license', 'contributing', 'description'
-- Whenever possible, add a few lines as code of conduct to make your project welcoming and inclusive for others
