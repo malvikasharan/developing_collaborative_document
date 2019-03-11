@@ -1,6 +1,6 @@
-### Fork a repo that your neigbors own
+### Fork a repo that your neighbors own
 
-If you don’t own a repo and aren’t an official collaborator:
+If you don’t own repo and aren’t an official collaborator:
 - you will fork a repo
 - work on your forked copy of the repo 
 - make a pull request for the changes you’ve made
