@@ -1,3 +1,5 @@
+USE THIS SHEET AS TEMPLATE TO TEACH MARKDOWN COMMANDS:
+
 You will learn how to:
 
 
