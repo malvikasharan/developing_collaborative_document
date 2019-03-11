@@ -5,7 +5,7 @@ Reference : [Welcome to Mozilla Science Lab's Study Group Orientation](https://m
 #### Aim of this section
 
 - Introduction to Version Control
-- Introduction toGitHub
+- Introduction to GitHub
 
 #### Questions:
 
@@ -21,6 +21,6 @@ If you’ve never used any specialized version control software before, it may h
 
 **GitHub is online web interface**, it’s designed to share your work, and allows other people to “fork” your project-- meaning they can create an independent copy of your work to test, modify, remix and reuse it.
 
-There's lots to know about GitHub-- it has terrific project management features, a social platform, and communication tools that are useful for any project where a group of people are working together on the same set of documents.
+There are lots to know about GitHub-- it has terrific project management features, a social platform, and communication tools that are useful for any project where a group of people is working together on the same set of documents.
 
 Get to know GitHub [Here](https://mozillascience.github.io/study-group-orientation/3.2-know-github.html) (Video from Abby Cabunac of Mozilla Science Lab)
