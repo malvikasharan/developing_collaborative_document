@@ -1,4 +1,4 @@
-## Add a first file to your repo
+## Add the first file to your repo
 
 ### Write your README
 
@@ -14,9 +14,9 @@ Now that you know how to use Markdown, use it to create your README.md file
 
 - Note any meeting times and places, contact people, etc.
 
-- Ask for what you need! If your group wants to learn or work on a certain topic, but doesn't have the expertise, mention that here-- that way, perspective members can see if their skills are needed!
+- Ask for what you need! If your group wants to learn or work on a certain topic but doesn't have the expertise, mention that here-- that way, prospective members can see if their skills are needed!
 
-- Test your README for jargon When you’re working in any field, whether it’s software engineering or astrophysics, you’ll learn and use jargon -- terms that have a special meaning to your field but likely won’t make sense to anyone who isn’t part of that field. Too much jargon can confuse newcomers, so use simple langauge and define all potentailly confusing terms here.
+- Test your README for jargon When you’re working in any field, whether it’s software engineering or astrophysics, you’ll learn and use jargon -- terms that have a special meaning to your field but likely won’t make sense to anyone who isn’t part of that field. Too much jargon can confuse newcomers, so use simple language and define all potentially confusing terms here.
 
 - Share your project with others.
 
