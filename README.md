@@ -2,6 +2,9 @@
 
 *Demo folder: [https://github.com/malvikasharan/friendly-collab-party](https://github.com/malvikasharan/friendly-collab-party)*
 
+*Main reference: [https://github.com/KirstieJane/friendly-github-intro](https://github.com/KirstieJane/friendly-github-intro)* (more below)
+
+
 - This practical session on "Developing Collaborative document" will introduce you to GitHub as a tool for creating documents online with your collaborators. 
 - The goal is to make you comfortable with a Collaborative workflow in the GitHub interface. 
 - Practice adding resources to online project folders, working with tasks and issues, writing messages when committing to any change, making and reviewing change requests from others and merging them. 
