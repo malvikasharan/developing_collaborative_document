@@ -1,5 +1,6 @@
 # Developing Collaborative Document
 
+*[Presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)*
 *Demo folder: [https://github.com/malvikasharan/friendly-collab-party](https://github.com/malvikasharan/friendly-collab-party)*
 
 *Main reference: [https://github.com/KirstieJane/friendly-github-intro](https://github.com/KirstieJane/friendly-github-intro)* (more below)
