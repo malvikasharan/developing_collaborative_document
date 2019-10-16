@@ -12,11 +12,6 @@
 - Practice adding resources to online project folders, working with tasks and issues, writing messages when committing to any change, making and reviewing change requests from others and merging them. 
 - You'll also practice good communication with contributors.
 
-**Venue**: EMBL Room 202
-**Date**: March 8, 2019
-**Time**: 13:30 - 15:00
-**Contact**: Malvika Sharan
-
 - Prerequisite: No prior experience with GitHub is needed. Bring any real-life scenario where developing collaborative documents will be useful for you. Please bring your own laptop to this event.
 
 **Tasks for the developers of this document**
