@@ -4,7 +4,7 @@
 
 Now that you know how to use Markdown, use it to create your README.md file
 
-**IN your README, Be sure  to:**
+**In your README, Be sure  to:**
 
 - **Say hello!** Welcome people to the Group. It’s great to introduce yourself here, so people know they’re dealing with a person or group of real people. Let potential members know you’re excited that they’re here to learn more.
 
