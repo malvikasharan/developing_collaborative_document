@@ -1,4 +1,4 @@
-### Fork a repo that your neighbors own
+### Fork a repo that your neighbours own
 
 If you don’t own repo and aren’t an official collaborator:
 - you will fork a repo
