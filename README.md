@@ -12,7 +12,7 @@
 - Practice adding resources to online project folders, working with tasks and issues, writing messages when committing to any change, making and reviewing change requests from others and merging them. 
 - You'll also practice good communication with contributors.
 
-- Prerequisite: No prior experience with GitHub is needed. Bring any real-life scenario where developing collaborative documents will be useful for you. Please bring your own laptop to this event.
+- Prerequisite: No prior experience with GitHub is needed. Bring any real-life scenario, where developing collaborative documents will be useful for you. Please bring your laptop to this event.
 
 **Tasks for the developers of this document**
 
