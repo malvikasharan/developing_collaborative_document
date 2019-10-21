@@ -1,8 +1,8 @@
 # Developing Collaborative Document
 
-*[Presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)*
+**References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and [Kirstie Whitaker](https://github.com/KirstieJane/friendly-github-intro):**
 
-*[Main reference](https://github.com/KirstieJane/friendly-github-intro)*
+*[Presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)*
 
 
 - This practical session on "Developing Collaborative document" will introduce you to GitHub as a tool for creating documents online with your collaborators. 
@@ -28,7 +28,7 @@
     * Useful GitHub features
 
 
-**References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and [Kirstie Whitaker](https://github.com/KirstieJane/friendly-github-intro):**
+*[Main reference: Friendly GitHub Intro by Kirstie Whitaker](https://github.com/KirstieJane/friendly-github-intro)*
 
 1. [Collaboration, Version Control, and GitHub](https://mozillascience.github.io/study-group-orientation/3.1-collab-vers-github.html)
 1. [Getting to know GitHub](https://mozillascience.github.io/study-group-orientation/3.2-know-github.html)
