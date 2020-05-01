@@ -17,7 +17,7 @@
 
 If you are a learner, you can [start Here](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/1-collaborative-documentation.md), and use this *[presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)* to guide your learning pace.
 
-**Tasks for the developers of this document**
+**Tasks for the instructors**
 
 1. Define the goal for this project.
 1. Decide on the date, time and venue for this course.
@@ -28,7 +28,7 @@ If you are a learner, you can [start Here](https://github.com/malvikasharan/deve
     * GitHub
     * GitHub folder/project is also known as repository/repo
     * Creating a repo
-    * Play around with the repo
+    * Playing around with the repo
     * Collaborating with others
     * Useful GitHub features
 
