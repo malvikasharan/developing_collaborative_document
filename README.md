@@ -4,6 +4,7 @@
 
 ## Please use this *[presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)* to guide your workshop
 
+## About this repository
 
 - This practical session on "Developing Collaborative document" will introduce you to GitHub as a tool for creating documents online with your collaborators. 
 - The goal is to make you comfortable with a Collaborative workflow in the GitHub interface. 
@@ -11,6 +12,10 @@
 - You'll also practice good communication with contributors.
 
 - Prerequisite: No prior experience with GitHub is needed. Bring any real-life scenario, where developing collaborative documents will be useful for you. Please bring your laptop to this event.
+
+**For learners**
+
+If you are a learner, you can [start Here](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/1-collaborative-documentation.md), and use this *[presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)* to guide your learning pace.
 
 **Tasks for the developers of this document**
 
@@ -26,7 +31,6 @@
     * Play around with the repo
     * Collaborating with others
     * Useful GitHub features
-
 
 *[Main reference: Friendly GitHub Intro by Kirstie Whitaker](https://github.com/KirstieJane/friendly-github-intro)*
 
