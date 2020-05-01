@@ -23,3 +23,5 @@ Now that you know how to use Markdown, use it to create your README.md file
 If you're having trouble getting started, here's some basic text-- feel free to copy-paste and edit content from the [README file from this repo](./../README.md).
 
 Reference: [Mozilla Science Lab](https://mozillascience.github.io/study-group-orientation/1.2-write-a-readme.html)
+
+[Go back to the previous chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/3-creating-my-first-repo.md) | [Go to the next chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/5-more-github-features.md)
