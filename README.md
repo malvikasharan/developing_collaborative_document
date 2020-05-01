@@ -24,7 +24,7 @@ No prior experience with GitHub is needed. Bring any real-life scenario, where d
 
 ### For learners
 
-If you are a learner, you can [start Here](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/1-collaborative-documentation.md), and use this *[presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)* to guide your learning pace.
+If you are a learner, you can [start Here](/lessons/1-collaborative-documentation.md), and use this *[presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)* to guide your learning pace.
 
 ## For the instructors
 
