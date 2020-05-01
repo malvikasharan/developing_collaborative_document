@@ -24,3 +24,5 @@ If you’ve never used any specialized version control software before, it may h
 There are lots to know about GitHub-- it has terrific project management features, a social platform, and communication tools that are useful for any project where a group of people is working together on the same set of documents.
 
 Get to know GitHub [Here](https://mozillascience.github.io/study-group-orientation/3.2-know-github.html) (Video from Abby Cabunac of Mozilla Science Lab)
+
+[Go back to the previous chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/2-version-control-and-GitHub.md) | [Go to the next chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/3-creating-my-first-repo.md)
