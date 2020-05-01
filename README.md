@@ -1,6 +1,6 @@
 # Developing Collaborative Document
 
-**References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and [Kirstie Whitaker](https://github.com/KirstieJane/friendly-github-intro):**
+**References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and Kirstie Whitaker's presentation on [Friendly GitHub Intro](https://github.com/KirstieJane/friendly-github-intro):**
 
 ## Please use this *[presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)* to guide your workshop
 
