@@ -1,5 +1,7 @@
 USE THIS SHEET AS TEMPLATE TO TEACH MARKDOWN COMMANDS:
 
+[Refernce for Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 You will learn how to:
 
 
