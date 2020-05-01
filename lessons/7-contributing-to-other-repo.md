@@ -9,3 +9,5 @@ If you don’t own repo and aren’t an official collaborator:
 *A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.*
 
 Complete note of [GitHub Fork](https://help.github.com/en/articles/fork-a-repo)
+
+[Go back to the previous chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/6-working-with-others.md) | [Go to the HackMD demo template](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/markdown_demo.md) 
