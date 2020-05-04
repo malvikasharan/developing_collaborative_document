@@ -16,5 +16,5 @@ Reference : [Welcome to Mozilla Science Lab's Study Group Orientation](https://m
     - When we code, write text or create any kind of content using computers, we end up with a collection of files in a folder or directory, also known as a repository, or “repo.”
     - Your contributors for your repo may be spread around the world or working in the same room; they may be working simultaneously or asynchronously and create different versions of a document.
     
-[Go back to the main page](https://github.com/malvikasharan/developing_collaborative_document) | [Go to the next chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/2-version-control-and-GitHub.md)
+[Go back to the main page](./../) | [Go to the next chapter](/lessons/2-version-control-and-GitHub.md)
 
