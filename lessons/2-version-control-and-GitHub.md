@@ -25,4 +25,4 @@ There are lots to know about GitHub-- it has terrific project management feature
 
 Get to know GitHub [Here](https://mozillascience.github.io/study-group-orientation/3.2-know-github.html) (Video from Abby Cabunac of Mozilla Science Lab)
 
-[Go back to the previous chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/1-collaborative-documentation.md) | [Go to the next chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/3-creating-my-first-repo.md)
+[Go back to the previous chapter](/lessons/1-collaborative-documentation.md) | [Go to the next chapter](/lessons/3-creating-my-first-repo.md)
