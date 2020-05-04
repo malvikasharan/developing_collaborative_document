@@ -24,4 +24,4 @@ If you're having trouble getting started, here's some basic text-- feel free to 
 
 Reference: [Mozilla Science Lab](https://mozillascience.github.io/study-group-orientation/1.2-write-a-readme.html)
 
-[Go back to the previous chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/3-creating-my-first-repo.md) | [Go to the next chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/5-more-github-features.md)
+[Go back to the previous chapter](/lessons/3-creating-my-first-repo.md) | [Go to the next chapter](/lessons/5-more-github-features.md)
