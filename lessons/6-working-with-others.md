@@ -26,4 +26,4 @@ As the owner of repo you:
 
 *Reference: Mozilla Science Lab's material developed by Kirstie Whitaker [link](https://docs.google.com/presentation/d/1VasZl8YsYMfhi1zYaYZ-kWykjp4T-ZqE5YrOImsC_Kg/edit#slide=id.g1568089626_2_0)*
 
-[Go back to the previous chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/5-more-github-features.md) | [Go to the next chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/7-contributing-to-other-repo.md) 
+[Go back to the previous chapter](/lessons/5-more-github-features.md) | [Go to the next chapter](/lessons/7-contributing-to-other-repo.md) 
