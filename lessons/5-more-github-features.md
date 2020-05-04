@@ -23,4 +23,4 @@
 
 *We will explore GitHub issues for creating project board but you can later check this **[lesson big lesson on Project boards](https://help.github.com/en/articles/about-project-boards)***
 
-[Go back to the previous chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/4-add-file-to-repo.md) | [Go to the next chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/6-working-with-others.md)
+[Go back to the previous chapter](/lessons/4-add-file-to-repo.md) | [Go to the next chapter](/lessons/6-working-with-others.md)
