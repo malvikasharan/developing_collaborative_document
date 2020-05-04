@@ -7,4 +7,4 @@
     - Learn about [Markdown](./markdown_demo.md) to create elegant looking.
     - See the instructions [here](./how-to-README.md)
   
-[Go back to the previous chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/2-version-control-and-GitHub.md) | [Go to the next chapter](https://github.com/malvikasharan/developing_collaborative_document/blob/master/lessons/4-add-file-to-repo.md)
+[Go back to the previous chapter](/lessons/2-version-control-and-GitHub.md) | [Go to the next chapter](/lessons/4-add-file-to-repo.md)
