@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/172902067.svg)](https://zenodo.org/badge/latestdoi/172902067)
+
 # Developing Collaborative Document
 
 **References used in this course are taken from [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and Kirstie Whitaker's presentation on [Friendly GitHub Intro](https://github.com/KirstieJane/friendly-github-intro):**
