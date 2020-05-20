@@ -6,16 +6,16 @@
 
 ### About this repository
 
-This repository offers a learning material for a practical session on "Developing Collaborative document", which will introduce you to [GitHub](https://github.com/) as a tool for creating documents online with your collaborators.
+This repository offers learning material for a practical session on "Developing Collaborative document", which will introduce you to [GitHub](https://github.com/) as a tool for creating documents online with your collaborators.
 
-GitHub provides a Web-based graphical interface to maintain and share your projects (reprositories) and maintain the different versions of your documents with information such as which files changes, what changed, who changed them and why those updates were made. 
+GitHub provides a Web-based graphical interface to maintain and share your projects (repositories) and maintain the different versions of your documents with information such as which files change, what changed, who changed them, and why those updates were made. 
 
-GitHub also provides access control (who can access your files, who can read or edit them) and several collaboration features, such as a wikis and basic task management tools for every project.
+GitHub also provides access control (who can access your files, who can read or edit them) and several collaboration features, such as wikis and basic task management tools for every project.
 
 ### Learning outcome
 
 - The goal is to make you comfortable with a Collaborative workflow in the GitHub interface. 
-- Practice adding resources to online project folders, working with tasks and issues, writing messages when committing to any change, making and reviewing change requests from others and merging them. 
+- Practice adding resources to online project folders, working with tasks and issues, writing messages when committing to any change, making and reviewing change requests from others, and merging them. 
 - You'll also practice good communication with contributors.
 
 ### Prerequisite
@@ -29,7 +29,7 @@ If you are a learner, you can [start Here](/lessons/1-collaborative-documentatio
 ## For the instructors
 
 1. Define the goal for this project.
-1. Decide on the date, time and venue for this course.
+1. Decide on the date, time, and venue for this course.
 1. Define your target audience and their requirements.
 1. Create a README file and add the information there.
 1. Create handout material covering the following areas:
