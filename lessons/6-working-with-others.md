@@ -23,7 +23,4 @@ As the owner of repo you:
 
 *You add collaborators when they are a core part of your team!*
 
-
-*Reference: Mozilla Science Lab's material developed by Kirstie Whitaker [link](https://docs.google.com/presentation/d/1VasZl8YsYMfhi1zYaYZ-kWykjp4T-ZqE5YrOImsC_Kg/edit#slide=id.g1568089626_2_0)*
-
 [Go back to the previous chapter](https://malvikasharan.github.io/developing_collaborative_document/lessons/5-more-github-features) | [Go to the next chapter](https://malvikasharan.github.io/developing_collaborative_document/lessons/7-contributing-to-other-repo) 
