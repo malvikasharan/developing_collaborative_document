@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/172902067.svg)](https://zenodo.org/badge/latestdoi/172902067)
+[![(https://zenodo.org/badge/172902067.svg)]](https://zenodo.org/badge/latestdoi/172902067)
 
 # Developing Collaborative Document
 
