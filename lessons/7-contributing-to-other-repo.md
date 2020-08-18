@@ -10,4 +10,4 @@ If you don’t own repo and aren’t an official collaborator:
 
 Complete note of [GitHub Fork](https://help.github.com/en/articles/fork-a-repo)
 
-[Go back to the previous chapter](https://malvikasharan.github.io/developing_collaborative_document/lessons/6-working-with-others) | [Go to the Markdown demo template](https://malvikasharan.github.io/developing_collaborative_document/lessons/markdown_demo) 
+[Go back to the previous chapter](https://malvikasharan.github.io/developing_collaborative_document/lessons/6-working-with-others) | [Go to the Markdown demo template](https://malvikasharan.github.io/developing_collaborative_document/lessons/markdown_demo.md) 
