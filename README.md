@@ -14,19 +14,21 @@ GitHub provides a Web-based graphical interface to maintain and share your proje
 
 GitHub also provides access control (who can access your files, who can read or edit them) and several collaboration features, such as wikis and basic task management tools for every project.
 
-### Learning outcome
+### For learners
 
-- The goal is to make you comfortable with a Collaborative workflow in the GitHub interface. 
-- Practice adding resources to online project folders, working with tasks and issues, writing messages when committing to any change, making and reviewing change requests from others, and merging them. 
-- You'll also practice good communication with contributors.
+If you are a learner, you can **[start Here](/lessons/1-collaborative-documentation.md)**.
+
+Please, use this **[presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)** to guide your learning pace.
 
 ### Prerequisite
 
 No prior experience with GitHub is needed. Bring any real-life scenario, where developing collaborative documents will be useful for you. Please bring your laptop to this event.
 
-### For learners
+### Learning outcome
 
-If you are a learner, you can [start Here](/lessons/1-collaborative-documentation.md), and use this *[presentation](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)* to guide your learning pace.
+- The goal is to make you comfortable with a Collaborative workflow in the GitHub interface. 
+- Practice adding resources to online project folders, working with tasks and issues, writing messages when committing to any change, making and reviewing change requests from others, and merging them. 
+- You'll also practice good communication with contributors.
 
 ## For the instructors
 
