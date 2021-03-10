@@ -2,8 +2,8 @@
 
 *Name/one thing you loved about this session or one thing you want to know more about GitHub*
 
-1. Yo - I love 🌹 watching people learn how to use github! 
-2.
+1.
+2. Adding a pull request
 3.
 4.
 5.
