@@ -2,8 +2,8 @@
 
 *Name/your fork's link/one thing you loved about this session/one thing you want to know more about GitHub*
 
-1. Fabienne/ I enjoyed diving into a new world/ wondering if an existing website on wordpress should be changed to GitHub page? What are pro's and con's?
-2.
+1. Yo - I love 🌹 watching people learn how to use github! 
+2. Fabienne/ I enjoyed diving into a new world/ wondering if an existing website on wordpress should be changed to GitHub page? What are pro's and con's?
 3.
 4.
 5.
@@ -28,4 +28,5 @@
 24.
 25.
 26.
+27.
 
