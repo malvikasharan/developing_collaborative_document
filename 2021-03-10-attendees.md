@@ -3,8 +3,8 @@
 *Name/one thing you loved about this session or one thing you want to know more about GitHub*
 
 1.
-2. Adding a pull request
-3.
+2. 
+3. Nihan - Adding a pull request
 4.
 5.
 6.
