@@ -1,6 +1,6 @@
 # Add your info below in random numbers
 
-*Name/your fork's link/one thing you loved about this session/one thing you want to know more about GitHub*
+*Name/one thing you loved about this session or one thing you want to know more about GitHub*
 
 1.
 2.
