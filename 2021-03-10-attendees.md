@@ -1,8 +1,8 @@
 # Add your info below in random numbers
 
-*Name/one thing you loved about this session or one thing you want to know more about GitHub*
+*Name/your fork's link/one thing you loved about this session/one thing you want to know more about GitHub*
 
-1. Yo - I love 🌹 watching people learn how to use github! 
+1. Fabienne/ I enjoyed diving into a new world/ wondering if an existing website on wordpress should be changed to GitHub page? What are pro's and con's?
 2.
 3.
 4.
