@@ -1,10 +1,11 @@
 # Add your info below in random numbers
 
-*Name/one thing you loved about this session or one thing you want to know more about GitHub*
+*Name/your fork's link/one thing you loved about this session/one thing you want to know more about GitHub*
 
-1. Carla - so many things I want to know more about! :smiley:2.
-3.
-4.
+1. Yo - I love 🌹 watching people learn how to use github! 
+2. Fabienne/ I enjoyed diving into a new world/ wondering if an existing website on wordpress should be changed to GitHub page? What are pro's and con's?
+3. Nihan - Adding a pull request
+4. Carla - so many things I want to know more about! :smiley:2.
 5.
 6.
 7.
@@ -27,4 +28,5 @@
 24.
 25.
 26.
+27.
 
