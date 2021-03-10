@@ -6,7 +6,7 @@
 2. Fabienne/ I enjoyed diving into a new world/ wondering if an existing website on wordpress should be changed to GitHub page? What are pro's and con's?
 3. Nihan - Adding a pull request
 4.
-5.
+5.mayya - trying to do it second time
 6.
 7.
 8.
